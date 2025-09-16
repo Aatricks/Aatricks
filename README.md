@@ -7,7 +7,7 @@
 
 - ✨️Lead Dev and owner of [LightDiffusion](https://github.com/Aatrick/LightDiffusion-Next), beating AI diffusion industry standards in speed and efficiency, test it [here](https://huggingface.co/spaces/Aatricks/LightDiffusion-Next)
 
-- 🌱 I’m currently in 3rd year of CSE
+- 🌱 I’m currently in 4th year of CSE
 
 - 👨‍💻 Most of my projects are available at my [Portfolio](https://aatrick.github.io/Portfolio/) or my [Github](https://github.com/Aatrick?tab=repositories)
 
