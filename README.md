@@ -1,34 +1,77 @@
 <div align="center">
   <h1>Hi 👋, I'm Aatricks</h1>
-  <h3>A passionate Computer Science Engineering student from France</h3>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=aatricks&no-bg=true&no-frame=true&theme=dracula&rank=-C,-B,-?" />
+  <h3>Computer Science Engineering Student • AI & Systems Enthusiast</h3>
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣰⣾⣿⣟⣛⣛⡛⠛⠛⣻⣿⠿⠿⢶⣶⣤⣄⡀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣴⣶⠶⠒⠂⠀⠉⠉⠉⢉⣉⢹⠟⢓⣒⠛⣻⣿⢿⣿⣿⣿⣐⣒⣲⣬⣭⣽⣿⠟⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡀⢀⣠⣴⠾⠟⠋⣛⣻⣷⣶⣶⣶⣤⣤⣄⣀⣩⣴⣦⣿⣿⣷⣿⣿⣿⣶⡶⢬⣉⣹⠿⠛⠉⠉⠉⠒⡄⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣸⣿⣿⣿⣋⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣫⣾⣿⣿⣿⣿⣿⣿⡿⠛⠁⠀⣀⠤⠒⠈⠀⢀⣤⣤⣾⠁⠀
+⠀⠀⠀⠀⠀⣀⠴⠚⠻⠯⠻⣿⣿⣿⣯⣿⣽⣿⣿⣻⣿⡻⢿⡛⢋⡭⣿⡟⣵⣿⣿⡿⠛⢿⣿⠛⠁⣀⡤⢲⡏⢉⠉⢻⣷⣦⣿⣿⣿⡆⠀⠀
+⠀⠀⠀⢀⣾⠑⠁⠀⠀⠀⠀⠀⠉⠛⠛⠛⠻⠿⠿⠿⠿⣿⣿⣿⣿⠿⠿⠿⠿⢿⢿⣿⡛⣋⣥⡒⠉⠀⠀⢰⠏⠀⠀⢀⣿⣿⣿⣿⣿⣿⠀⠀
+⠀⠀⣠⣿⡿⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⣴⡶⠂⣀⠤⠐⠋⠀⠀⠀⣀⣤⣤⡀⡮⢚⣭⣾⣿⠇⣀⣤⡦⢿⣆⣠⣤⠞⣿⣿⣿⣿⣿⣿⠁⠀
+⠀⢰⠋⡽⣌⣓⠤⠄⢀⣀⡀⠈⠉⠉⠉⣁⣠⢰⠿⢒⠟⠃⠀⠀⢀⣾⣿⣿⣿⣿⠇⣾⣿⣿⢟⣫⣟⣫⣵⣾⣿⣿⣿⠿⢋⠈⠉⠉⠀⠈⠀⠀
+⠀⢀⣿⣀⠈⠉⠰⢂⠾⠶⠾⠭⠍⠉⠉⠻⠿⠸⠋⠁⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⢄⣙⣿⣿⣿⣿⣿⣿⠿⠟⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢠⣾⣿⣿⣿⣶⣤⣤⣤⣤⣄⣀⣀⣤⣤⣤⣤⣤⣄⡀⠀⣠⣶⣾⣿⣿⣿⣿⣿⣿⣟⣿⠿⢛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⠛⣛⣿⣿⣿⣿⣿⣿⣋⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠉⠙⠛⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡉⠛⠿⠛⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </div>
 
+---
+### 🚀 Featured Projects  
 
-- ✨️Lead Dev and owner of [LightDiffusion](https://github.com/Aatrick/LightDiffusion-Next), beating AI diffusion industry standards in speed and efficiency, test it [here](https://huggingface.co/spaces/Aatricks/LightDiffusion-Next)
+- **[LightDiffusion-Next](https://github.com/Aatrick/LightDiffusion-Next)**  
+  ⚡ My flagship project — pushing diffusion model inference beyond industry standards in **speed & efficiency**.  
+  👉 Try it live on [HuggingFace](https://huggingface.co/spaces/Aatricks/LightDiffusion-Next).
 
-- 🌱 I’m currently in 4th year of CSE
+- **[LLMEdge](https://github.com/Aatricks/llmedge)**  
+  🧠 Edge-deployed large language models: optimizing inference, handling constraints, and bringing LLM power closer to devices.
 
-- 👨‍💻 Most of my projects are available at my [Portfolio](https://aatrick.github.io/Portfolio/) or my [Github](https://github.com/Aatrick?tab=repositories)
+- **[Novel-Scraper](https://github.com/Aatricks/Novel-Scraper)**  
+  📚 Automated novel fetching and formatting with a focus on performance and clean outputs.  
 
-- 📫 How to reach me **melis.emilio1@gmail.com** or [**Aatricks** on Discord](https://discordapp.com/users/293781611764514816)
+- **[Android Battery Optimization](https://github.com/Aatricks/Android-battery-optimization)**  
+  🔋 Research-driven tweaks & tools to extend battery life and improve mobile performance.  
 
-- 👀 I'm passionate about Artificial intelligence and algorithmic
+- **[CChess](https://github.com/Aatricks/CChess)**  
+  ♟️ A chess engine project combining algorithmics and AI search optimization.  
 
-- ⚡ Fun fact **I'm also Immortal 3 #5321 EMEA on Valorant**
+- **[Arch Matebook X Pro](https://github.com/Aatricks/Arch-Matebook-X-Pro)**  
+  🐧 Guides, configs, and scripts to automatize arch setup on a Huawei Matebook X Pro.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/emil.io_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emil.io_m" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/293781611764514816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aatricks" height="30" width="40" /></a>
-</p>
+- **[PoSubmarine](https://github.com/Aatricks/PoSubmarine)**  
+  🌊 Radio Controlled 3D printed submarine, leveraging kalman filters for gyroscopic data, made as a school project.
 
-<h3 align="left">Languages and Tools:</h3>
+- **[Julia_Set](https://github.com/Aatricks/Julia_Set)**  
+  🎨 Generative graphics / fractal explorer — implementing the Julia set with performance optimizations and visual tweaks.
+
+
+👉 Explore all of my projects on my [Portfolio](https://aatrick.github.io/Portfolio/) or directly on my [GitHub Repositories](https://github.com/Aatrick?tab=repositories).
+
+---
+
+### 💡 About Me  
+
+- 🌱 Currently in **4th year of Computer Science Engineering**  
+- 👀 Passionate about **Artificial Intelligence, algorithms & system optimization**  
+- 🎮 Fun fact: **Immortal 3 #5321 EMEA on Valorant**  
+- 📫 Reach me at **melis.emilio1@gmail.com** or [Discord](https://discordapp.com/users/293781611764514816)  
+
+---
+
+### 🛠️ Tech & Tools I Use  
+
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://astro.build/assets/press/astro-icon-light-gradient.png" alt="svelte" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/>
 </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aatricks&show_icons=true&locale=en&theme=transparent&rank_icon=percentile" alt="aatrick" /></p>
+---
 
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aatricks&show_icons=true&theme=transparent&rank_icon=percentile" alt="stats" />
+</p>
