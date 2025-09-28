@@ -46,7 +46,7 @@
   🎨 Generative graphics / fractal explorer — implementing the Julia set with performance optimizations and visual tweaks.
 
 
-👉 Explore all of my projects on my [Portfolio](https://aatrick.github.io/Portfolio/) or directly on my [GitHub Repositories](https://github.com/Aatrick?tab=repositories).
+👉 Explore all of my projects on my [Portfolio](https://aatricks.github.io/Portfolio/) or directly on my [GitHub Repositories](https://github.com/Aatricks?tab=repositories).
 
 ---
 
