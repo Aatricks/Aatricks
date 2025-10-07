@@ -24,7 +24,13 @@
   ⚡ My flagship project — pushing diffusion model inference beyond industry standards in **speed & efficiency**.  
   👉 Try it live on [HuggingFace](https://huggingface.co/spaces/Aatricks/LightDiffusion-Next).
 
-- **[LLMEdge](https://github.com/Aatricks/llmedge)**  
+- **[LightDiffusion-Original](https://github.com/Aatricks/LightDiffusion-original)**  
+  🧪 Original implementation of LightDiffusion, shwocasing a simple stable-diffusion inference backend in the least complex way.
+
+- **[Newelle-LightDiffusion](https://github.com/Aatricks/Newelle-Light-Diffusion)**  
+  📥 LightDiffusion-Next extension to Newelle permitting to generate images inline during conversations with llms.
+
+- **[LLMEdge](https://github.com/Aatricks/llmedge) | [LLMEdge Examples](https://github.com/Aatricks/llmedge-examples)**  
   🧠 Edge-deployed large language models: optimizing inference, handling constraints, and bringing LLM power closer to devices.
 
 - **[Novel-Scraper](https://github.com/Aatricks/Novel-Scraper)**  
@@ -36,8 +42,8 @@
 - **[CChess](https://github.com/Aatricks/CChess)**  
   ♟️ A chess engine project combining algorithmics and AI search optimization.  
 
-- **[Arch Matebook X Pro](https://github.com/Aatricks/Arch-Matebook-X-Pro)**  
-  🐧 Guides, configs, and scripts to automatize arch setup on a Huawei Matebook X Pro.
+- **[Arch Matebook X Pro](https://github.com/Aatricks/Arch-Matebook-X-Pro) | [NixOS Matebook X Pro](https://github.com/Aatricks/NixOS-Matebook-X-Pro)**  
+  🐧 Guides, configs, and scripts to automatize arch / NixOS setup on a Huawei Matebook X Pro.
 
 - **[PoSubmarine](https://github.com/Aatricks/PoSubmarine)**  
   🌊 Radio Controlled 3D printed submarine, leveraging kalman filters for gyroscopic data, made as a school project.
