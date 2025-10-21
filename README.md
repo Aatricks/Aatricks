@@ -61,7 +61,7 @@
 - 🌱 Currently in **4th year of Computer Science Engineering**  
 - 👀 Passionate about **Artificial Intelligence, algorithms & system optimization**  
 - 🎮 Fun fact: **Immortal 3 #5321 EMEA on Valorant**  
-- 📫 Reach me at **melis.emilio1@gmail.com** or [Discord](https://discordapp.com/users/293781611764514816)  
+- 📫 Reach me at **melis.emilio1@gmail.com**, [linkedin](https://www.linkedin.com/in/emilio-melis-14a801338) or [Discord](https://discordapp.com/users/293781611764514816)  
 
 ---
 
