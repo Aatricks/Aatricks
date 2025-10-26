@@ -33,8 +33,8 @@
 - **[LLMEdge](https://github.com/Aatricks/llmedge) | [LLMEdge Examples](https://github.com/Aatricks/llmedge-examples)**  
   🧠 Edge-deployed large language models: optimizing inference, handling constraints, and bringing LLM power closer to devices.
 
-- **[Novel-Scraper](https://github.com/Aatricks/Novel-Scraper)**  
-  📚 Automated novel fetching and formatting with a focus on performance and clean outputs.  
+- **[Novel-Scraper](https://github.com/Aatricks/Novel-Scraper)** | **[EasyReader](https://github.com/Aatricks/EasyReader)**
+  📚 Automated web novel, PDF and EPUB parsing and formatting with a focus on performance and clean outputs. Supporting AI chapter summaries powered by [llmedge](https://github.com/Aatricks/llmedge)
 
 - **[Android Battery Optimization](https://github.com/Aatricks/Android-battery-optimization)**  
   🔋 Research-driven tweaks & tools to extend battery life and improve mobile performance.  
