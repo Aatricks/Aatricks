@@ -37,7 +37,10 @@
   📚 Automated web novel, PDF and EPUB parsing and formatting with a focus on performance and clean outputs. Supporting AI chapter summaries powered by [llmedge](https://github.com/Aatricks/llmedge)
 
 - **[Android Battery Optimization](https://github.com/Aatricks/Android-battery-optimization)**  
-  🔋 Research-driven tweaks & tools to extend battery life and improve mobile performance.  
+  🔋 Research-driven tweaks & tools to extend battery life and improve mobile performance.
+
+- **[Pyscii](https://github.com/Aatricks/pyscii)**  
+  🎨 CLI tool globally installed to convert images into high-quality, colorized ASCII art.
 
 - **[CChess](https://github.com/Aatricks/CChess)**  
   ♟️ A chess engine project combining algorithmics and AI search optimization.  
@@ -49,7 +52,7 @@
   🌊 Radio Controlled 3D printed submarine, leveraging kalman filters for gyroscopic data, made as a school project.
 
 - **[Julia_Set](https://github.com/Aatricks/Julia_Set)**  
-  🎨 Generative graphics / fractal explorer — implementing the Julia set with performance optimizations and visual tweaks.
+  🎨 Generative graphics / fractal explorer, implementing the Julia set with performance optimizations and visual tweaks.
 
 
 👉 Explore all of my projects on my [Portfolio](https://aatricks.github.io/Portfolio/) or directly on my [GitHub Repositories](https://github.com/Aatricks?tab=repositories).
