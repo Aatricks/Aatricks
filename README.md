@@ -54,7 +54,7 @@
 - **[Julia_Set](https://github.com/Aatricks/Julia_Set)**  
   🎨 Generative graphics / fractal explorer, implementing the Julia set with performance optimizations and visual tweaks.
 
-- **[Zed Flat Themes](https://github.com/Aatricks/zed-flat-theme) | [VSCode Flat Themes](https://github.com/Aatricks/flat-theme)**
+- **[Zed Flat Themes](https://github.com/Aatricks/zed-flat-theme) | [VSCode Flat Themes](https://github.com/Aatricks/flat-theme)**  
   🖼️ Clean, minimalist theme collection for Zed IDE and VSCode, focused on readability and clutter free design.
 
 
