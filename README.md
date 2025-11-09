@@ -45,8 +45,8 @@
 - **[CChess](https://github.com/Aatricks/CChess)**  
   ♟️ A chess engine project combining algorithmics and AI search optimization.
 
-- **[Star Notifier](https://github.com/Aatricks/Star-Notifier)**
-  ⭐ A A github star, fork and repo traffic notifier, made for stats anxious people.
+- **[Star Notifier](https://github.com/Aatricks/Star-Notifier)**  
+  ⭐ A github star, fork and repo traffic notifier, made for stats anxious people.
 
 - **[Arch Matebook X Pro](https://github.com/Aatricks/Arch-Matebook-X-Pro) | [NixOS Matebook X Pro](https://github.com/Aatricks/NixOS-Matebook-X-Pro)**  
   🐧 Guides, configs, and scripts to automatize arch / NixOS setup on a Huawei Matebook X Pro.
