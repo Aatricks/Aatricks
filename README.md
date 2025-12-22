@@ -6,14 +6,14 @@
 ---
 ### 🚀 Featured Projects  
 
-- **[LightDiffusion-Next](https://github.com/Aatrick/LightDiffusion-Next)** | **[LightDiffusion-Original](https://github.com/Aatricks/LightDiffusion-original)** | **[Newelle-LightDiffusion](https://github.com/Aatricks/Newelle-Light-Diffusion)**  
+- **[LightDiffusion-Next](https://github.com/Aatrick/LightDiffusion-Next)**  
   ⚡ My flagship project — pushing diffusion model inference beyond industry standards in **speed & efficiency**.  
   👉 Try it live on [HuggingFace](https://huggingface.co/spaces/Aatricks/LightDiffusion-Next).
 
-- **[LLMEdge](https://github.com/Aatricks/llmedge) | [LLMEdge Examples](https://github.com/Aatricks/llmedge-examples)**  
+- **[LLMEdge](https://github.com/Aatricks/llmedge)**  
   🧠 Edge-deployed large language models: optimizing inference, handling constraints, and bringing LLM power closer to devices.
 
-- **[Novel-Scraper](https://github.com/Aatricks/Novel-Scraper)** | **[EasyReader](https://github.com/Aatricks/EasyReader)**  
+- **[EasyReader](https://github.com/Aatricks/EasyReader)**  
   📚 Automated web novel, PDF and EPUB parsing and formatting with a focus on performance and clean outputs. Supporting AI chapter summaries powered by [llmedge](https://github.com/Aatricks/llmedge)
 
 - **[Android Battery Optimization](https://github.com/Aatricks/Android-battery-optimization)**  
@@ -25,8 +25,8 @@
 - **[CChess](https://github.com/Aatricks/CChess)**  
   ♟️ A chess engine project combining algorithmics and AI search optimization.
 
-- **[Arch Matebook X Pro](https://github.com/Aatricks/Arch-Matebook-X-Pro) | [NixOS Matebook X Pro](https://github.com/Aatricks/NixOS-Matebook-X-Pro)**  
-  🐧 Guides, configs, and scripts to automatize arch / NixOS setup on a Huawei Matebook X Pro.
+- **[NixOS Matebook X Pro](https://github.com/Aatricks/NixOS-Matebook-X-Pro)**  
+  🐧 Guides, configs, and scripts to automatize NixOS setup on a Huawei Matebook X Pro.
 
 - **[PoSubmarine](https://github.com/Aatricks/PoSubmarine)**  
   🌊 Radio Controlled 3D printed submarine, leveraging kalman filters for gyroscopic data, made as a school project.
