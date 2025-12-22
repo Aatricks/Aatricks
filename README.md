@@ -6,7 +6,7 @@
 ---
 ### 🚀 Featured Projects  
 
-- **[LightDiffusion-Next](https://github.com/Aatrick/LightDiffusion-Next)** | **[LightDiffusion-Original](https://github.com/Aatricks/LightDiffusion-original)** | **[Newelle-LightDiffusion](https://github.com/Aatricks/Newelle-Light-Diffusion)**
+- **[LightDiffusion-Next](https://github.com/Aatrick/LightDiffusion-Next)** | **[LightDiffusion-Original](https://github.com/Aatricks/LightDiffusion-original)** | **[Newelle-LightDiffusion](https://github.com/Aatricks/Newelle-Light-Diffusion)**  
   ⚡ My flagship project — pushing diffusion model inference beyond industry standards in **speed & efficiency**.  
   👉 Try it live on [HuggingFace](https://huggingface.co/spaces/Aatricks/LightDiffusion-Next).
 
