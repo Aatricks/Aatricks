@@ -5,7 +5,7 @@
 
 I build projects around constrained hardware, low-level performance, and practical ML deployment, mostly in C/C++, Python, and Kotlin.
 
-Main projects: **[llmedge](https://github.com/Aatricks/llmedge)**, **[LightDiffusion-Next](https://github.com/Aatricks/LightDiffusion-Next)**, **[EasyReader](https://github.com/Aatricks/EasyReader)** and more.
+Main projects: **[llmedge](https://github.com/Aatricks/llmedge)**, **[LightDiffusion-Next](https://github.com/Aatricks/LightDiffusion-Next)**, **[EasyReader](https://github.com/Aatricks/EasyReader)** and [more](https://github.com/Aatricks?tab=repositories).
 
 ## My Focus
 - native and mobile AI runtimes
