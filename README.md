@@ -14,7 +14,7 @@ I build software that runs directly on constrained hardware:
 
 * **[llmedge](https://github.com/Aatricks/llmedge)** – Android wrapper for llama.cpp, stable-diffusion.cpp, whisper.cpp, and ONNX. Handles native runtime pooling and OpenCL/Vulkan/CPU fallback logic to prevent crashes on device-specific drivers.
 * **[LightDiffusion-Next](https://github.com/Aatricks/LightDiffusion-Next)** – Stable Diffusion pipeline and desktop GUI built in PyTorch. Uses custom batching and memory layout optimization to squeeze inference speed out of low-VRAM GPUs.
-* **[EasyReader](https://github.com/Aatricks/EasyReader)** – Manga and PDF reader for Android. Integrates `llmedge` to run chapter summaries and text-to-speech entirely offline.
+* **[Emaki](https://github.com/Aatricks/EasyReader)** – Manga and PDF reader for Android. Integrates `llmedge` to run chapter summaries and text-to-speech entirely offline.
 
 ### Systems and low-level
 
